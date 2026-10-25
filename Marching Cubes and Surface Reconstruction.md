@@ -98,7 +98,7 @@ The complete pipeline is:
 The flowchart below summarizes the pipeline.
 
 ```mermaid
-flowchart LR
+flowchart TB
     A["Scalar field f(x, y, z)"] --> B["Sample on regular grid"]
     B --> C["Classify grid points: inside or outside iso"]
     C --> D["Triangulate each cell"]
