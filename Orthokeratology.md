@@ -572,5 +572,3 @@ In this project we:
 - Swarbrick, H. A., Wong, G., & O'Leary, D. J. (1998). Corneal response to orthokeratology. *Optometry and Vision Science*, 75(11), 791–799.
 - Mountford, J. (1997). An analysis of the changes in corneal shape and refractive error induced by accelerated orthokeratology. *International Contact Lens Clinic*, 24(4), 125–134.
 - Holden, B. A., & Mertz, G. W. (1984). Critical oxygen levels to avoid corneal edema for daily and extended wear contact lenses. *Investigative Ophthalmology & Visual Science*, 25(10), 1212–1217.
-
-These references were written from memory. Verify authors, volumes, pages, and the claims attributed to each source, and consult current clinical guidelines and manufacturer fitting guides before any clinical application.
